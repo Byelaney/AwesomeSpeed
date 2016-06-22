@@ -1,6 +1,6 @@
 # Awesome-Speed
 
-![Image of the Day](https://github.com/Byelaney/AwesomeSpeed/blob/master/hubble_friday_06032016.jpg)
+![Image of the Day](https://github.com/Byelaney/AwesomeSpeed/blob/master/hubble_friday_06032016.jpg =150x150)
 
 I found that I have to make a list to push myself to learn. Here are some to-do lists for myself.
 
