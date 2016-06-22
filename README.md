@@ -36,6 +36,12 @@ I found that I have to make a list to push myself to learn. Here are some to-do 
 - [Principles of Discrete Applied Mathematics MIT](http://ocw.mit.edu/courses/mathematics/18-310-principles-of-discrete-applied-mathematics-fall-2013/calendar/)
 - [In-depth introduction to machine learning in 15 hours of expert videos](http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
 - [CS429: Information Retrieval @ IIT](https://github.com/iit-cs429/main) **f(6/26 finished)**
+- [An Introduction to Interactive Programming in Python](https://www.coursera.org/learn/interactive-python-1) **finished**
+- [Principles of Computing](https://www.coursera.org) **finished**
+- [An Introduction to Financial Accounting](https://www.coursera.org/learn/wharton-accounting) **finished**
+- [An Introduction to Marketing](https://www.coursera.org/learn/wharton-marketing) **finished**
+- [Machine Learning](https://www.coursera.org/course/ml) **finished**
+- [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/learn/algorithm-design-analysis) **finished**
 
 
 ## Programming practicing
@@ -49,3 +55,5 @@ I found that I have to make a list to push myself to learn. Here are some to-do 
     - (96/282 finished)
     - [Hints and Answers](http://www.jiuzhang.com/solutions/)
     - [My Blog(Chinese version)](http://byelaney.github.io/)
+
+<img src="https://github.com/Byelaney/AwesomeSpeed/blob/master/favicon.ico"/>
