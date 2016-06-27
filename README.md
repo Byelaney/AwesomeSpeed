@@ -52,7 +52,7 @@ I found that I have to make a list to push myself to learn. Here are some to-do 
     - C(12 finished)
     - D(1 finished)
 - **LintCode**
-    - (98/282 finished)
+    - (104/282 finished)
     - [Hints and Answers](http://www.jiuzhang.com/solutions/)
     - [My Blog(Chinese version)](http://byelaney.github.io/)
     
