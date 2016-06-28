@@ -11,7 +11,7 @@ I found that I have to make a list to push myself to learn. Here are some to-do 
     - **An Introduction to Statistical Learning**
 
 - IR Evaluation
-    - **FnTIR-Press-Kelly** **f(60/227)**
+    - **FnTIR-Press-Kelly** **f(71/227)**
     - **The humane Interface** **f(42/213)**
 
 - CS basic
