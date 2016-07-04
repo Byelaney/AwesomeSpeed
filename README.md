@@ -31,7 +31,7 @@ I found that I have to make a list to push myself to learn. Here are some to-do 
 
 ## Courses
 
-- [Artificial Intelligence MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/calendar/) **f(2/23 lecture finished)**
+- [Artificial Intelligence MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/calendar/) **f(3/23 lecture finished)**
 - [Single Variable Calculus MIT](http://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-65-bell-curve-conclusion/)
 - [Principles of Discrete Applied Mathematics MIT](http://ocw.mit.edu/courses/mathematics/18-310-principles-of-discrete-applied-mathematics-fall-2013/calendar/)
 - [In-depth introduction to machine learning in 15 hours of expert videos](http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
@@ -53,7 +53,7 @@ I found that I have to make a list to push myself to learn. Here are some to-do 
     - C(12 finished)
     - D(1 finished)
 - **LintCode**
-    - (112/282 finished)
+    - (117/282 finished)
     - [Hints and Answers](http://www.jiuzhang.com/solutions/)
     - [My Blog(Chinese version)](http://byelaney.github.io/)
     
