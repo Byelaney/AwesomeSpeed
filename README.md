@@ -60,6 +60,7 @@ I found that I have to make a list to push myself to learn. Here are some to-do 
 ## Online Sources
 
 - [ANOVA](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html)
+- [Machine Learning](http://ufldl.stanford.edu/wiki/index.php/Main_Page)
 
 
 <img src="https://github.com/Byelaney/AwesomeSpeed/blob/master/favicon.ico"/>
