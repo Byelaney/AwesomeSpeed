@@ -11,4 +11,12 @@ Here are some notes during my learning Emacs.
 - [x] C-a,C-e(beginning/end of the line)
 - [x] M-a,M-e(beginning/end of the sentence)
 - [x] M-shift-<, M-shift->(beginning/end of the whole text)
-- [ ] Emacs tutorials, line188
+- [x] C-u num(1,2,3...) C-f (move forward num digits)
+
+
+### Windows
+
+### Other notice
+
+- [x] C-g (stop the current emacs command)
+- [ ] Emacs tutorials, line-280
