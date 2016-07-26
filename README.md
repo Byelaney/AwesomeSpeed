@@ -62,6 +62,7 @@ I found that I have to make a list to push myself to learn. Here are some to-do 
 - [ANOVA](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html)
 - [Machine Learning Stanford](http://ufldl.stanford.edu/wiki/index.php/Main_Page)
 - [Artificial Intelligence Stanford](http://stanford.edu/~cpiech/cs221/index.html)
+- [Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval.html)
 
 
 <img src="https://github.com/Byelaney/AwesomeSpeed/blob/master/favicon.ico"/>
