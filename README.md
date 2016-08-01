@@ -63,6 +63,7 @@ I found that I have to make a list to push myself to learn. Here are some to-do 
 - [Machine Learning Stanford](http://ufldl.stanford.edu/wiki/index.php/Main_Page)
 - [Artificial Intelligence Stanford](http://stanford.edu/~cpiech/cs221/index.html)
 - [Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval.html)
+- [设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 
 
 <img src="https://github.com/Byelaney/AwesomeSpeed/blob/master/favicon.ico"/>
