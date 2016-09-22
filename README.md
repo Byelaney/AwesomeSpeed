@@ -18,7 +18,7 @@ I found that I have to make a list to push myself to learn. Here are some to-do 
     - **Structure and Interpretation of Computer Programs** **f(116/634)**
     - **Programming Collective Intelligence** **f(51/360)**
     - **Computer Systems A Programmer's Perspective** **f(30/970)**
-    - **151 suggestions for writing high quality code to improve the Java program** **finished**
+    - **151 suggestions for writing high quality code to improve the Java program** **(finished)**
 
 - Algorithm
     - [algs4](http://algs4.cs.princeton.edu/home/) **1.3 stack**
@@ -55,7 +55,7 @@ I found that I have to make a list to push myself to learn. Here are some to-do 
     - C(12 finished)
     - D(1 finished)
 - **LintCode**
-    - (135/282 finished)
+    - (158/282 finished)
     - [Hints and Answers](http://www.jiuzhang.com/solutions/)
     - [My Blog(Chinese version)](http://byelaney.github.io/)
     
