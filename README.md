@@ -7,11 +7,11 @@ I found that I have to make a list to push myself to learn. Here are some to-do 
 ## Books
 
 - Mathmatics
-    - **Introduction to probability** by Joseph K. Blitzstein and Jessica Hwang. **f(64/589)**
+    - **Introduction to probability** by Joseph K. Blitzstein and Jessica Hwang. **f(59/589)**
     - **An Introduction to Statistical Learning**
 
 - IR Evaluation
-    - **FnTIR-Press-Kelly** **f(71/227)**
+    - **FnTIR-Press-Kelly** **(finished)**
     - **The humane Interface** **f(42/213)**
 
 - CS basic
@@ -19,6 +19,7 @@ I found that I have to make a list to push myself to learn. Here are some to-do 
     - **Programming Collective Intelligence** **f(51/360)**
     - **Computer Systems A Programmer's Perspective** **f(30/970)**
     - **151 suggestions for writing high quality code to improve the Java program** **(finished)**
+    - **两周自制脚本语言** **f(36/302)**
 
 - Algorithm
     - [algs4](http://algs4.cs.princeton.edu/home/) **1.3 stack**
